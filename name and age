@@ -1,0 +1,6 @@
+name = input("Please enter your name:")
+age = int(input ("Plese enter your age:"))
+x = 2023-age 
+print("Hello", name)
+print("You are currently:", age)
+print(f"Your birth year is {x}")
